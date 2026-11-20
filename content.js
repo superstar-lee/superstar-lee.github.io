@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国 · 内蒙古",
   email: "lichaoxing666@163.com",
-  github: "https://github.com/kaiyang-teacher",
+  github: "https://github.com/superstar-lee",
   csdn: "https://mp.csdn.net/?spm=1010.2135.3001.8539",
   gitee: "https://gitee.com/superstar_lee",
   resumeUrl: "",
